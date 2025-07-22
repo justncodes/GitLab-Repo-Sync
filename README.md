@@ -37,7 +37,7 @@ This securely stores the Access Token for the script to use.
 2.  Expand the **Variables** section and click **Add variable**.
 3.  **Key:** `GITLAB_PUSH_TOKEN`
 4.  **Value:** Paste the **Project Access Token** you copied in Step 3.
-5.  Check both the **"Protect variable"** and **"Mask variable"** boxes.
+5.  Check both the **"Protect variable"** and **"Masked and hidden"** boxes.
 6.  Click **Add variable**.
 
 ### Step 5: Create a Pipeline Trigger
